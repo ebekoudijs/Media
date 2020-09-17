@@ -10,7 +10,7 @@ h1, p, a, button{
 }
 body {
 	background-image: url("background.jpg");
-	
+	z-index: -1;
 	
 }
 .container {
