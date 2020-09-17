@@ -15,10 +15,10 @@ bouncingImages = new Object();
 
 // CONFIGURATION:
 
-bouncingImages.imgCount = 3;
+bouncingImages.imgCount = 4;
 bouncingImages.imgWidth = 40;
 bouncingImages.imgHeight = 40;
-bouncingImages.imgSrc = 'monster truck.JPG';
+bouncingImages.imgSrc = 'monster truck.jpg';
 
 bouncingImages.frameRate = 30;
 
