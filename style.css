@@ -5,6 +5,7 @@
         outline: 0;
         font-size: 100%;
         vertical-align: baseline;
+		z-index: -1;
 
     }
 h1, p, a, button{

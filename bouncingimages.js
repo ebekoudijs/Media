@@ -18,7 +18,7 @@ bouncingImages = new Object();
 bouncingImages.imgCount = 4;
 bouncingImages.imgWidth = 40;
 bouncingImages.imgHeight = 40;
-bouncingImages.imgSrc = 'selfie.jpg';
+bouncingImages.imgSrc = 'selfie.gif';
 
 bouncingImages.frameRate = 30;
 
