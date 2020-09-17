@@ -15,15 +15,15 @@ bouncingImages = new Object();
 
 // CONFIGURATION:
 
-bouncingImages.imgCount = 4;
+bouncingImages.imgCount = 8;
 bouncingImages.imgWidth = 40;
 bouncingImages.imgHeight = 40;
-bouncingImages.imgSrc = 'superball.gif';
+bouncingImages.imgSrc = 'superbal.gif';
 
 bouncingImages.frameRate = 30;
 
-bouncingImages.minRandomSpeed = 2;
-bouncingImages.maxRandomSpeed = 8;
+bouncingImages.minRandomSpeed = 8;
+bouncingImages.maxRandomSpeed = 16;
 
 // MAIN:
 
