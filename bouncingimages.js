@@ -18,7 +18,7 @@ bouncingImages = new Object();
 bouncingImages.imgCount = 4;
 bouncingImages.imgWidth = 40;
 bouncingImages.imgHeight = 40;
-bouncingImages.imgSrc = 'monster truck.jpg';
+bouncingImages.imgSrc = 'selfie.jpg';
 
 bouncingImages.frameRate = 30;
 
